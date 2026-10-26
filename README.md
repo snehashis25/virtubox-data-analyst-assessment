@@ -1,2 +1,44 @@
-# virtubox-data-analyst-assessment
-Data analysis assessment featuring data cleaning, exploratory analysis, business insights, and dashboarding.
+# VirtuBox Data Analyst Assessment
+
+
+Project Overview
+
+This project analyses the Global Superstore dataset to identify sales trends, profitability patterns, and business improvement opportunities.
+
+Tools Used
+
+Python and Pandas
+
+Google Sheets
+
+Looker Studio
+
+Data visualization and exploratory data analysis
+
+Project Contents
+
+Jupyter Notebook: data analysis and visualizations
+
+Spreadsheet: assessment answers and supporting analysis
+
+Methodology: data preparation and analytical approach
+
+Presentation: key findings and recommendations
+
+Dashboard
+
+[Insert your Looker Studio dashboard link here]
+
+Key Areas of Analysis
+
+Sales and profit by category and region
+
+Sub-category profitability
+
+Yearly sales trends
+
+Discount levels and profitability
+
+Limitations
+
+The findings describe patterns in the available dataset and do not independently establish causation.
