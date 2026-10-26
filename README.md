@@ -29,6 +29,10 @@ Presentation: key findings and recommendations
 
 (https://datastudio.google.com/reporting/80639c13-42a6-4181-b26c-c5a41bbc9ef5/page/Y19BG/edit)
 
+**Google Drive Link**
+
+(https://drive.google.com/drive/folders/1VQZNInyH0NFDz4M_91PwGqh6SGGuvZEm?usp=sharing)
+
 **Key Areas of Analysis**
 
 Sales and profit by category and region
